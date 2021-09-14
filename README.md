@@ -2,7 +2,7 @@
 This repository contains all related files of Udacity Machine Learning Engineer Capstone Project: Dog Breed App
 
 ## Installation
-Install all the required libraries by using the [environment.yml]()
+Install all the required libraries by using the [environment.yml](https://github.com/Mendy5/Udacity_ML_Engineer_Capstone/blob/main/environment.yml)
 
 ## Data Source
 Users would like take images of the dog and ask for the breed. Therefore, we need to feed images as input for the models. The data sources are showing below:
