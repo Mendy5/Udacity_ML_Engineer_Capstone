@@ -6,8 +6,9 @@ Install all the required libraries by using the [environment.yml](https://github
 
 ## Data Source
 Users would like take images of the dog and ask for the breed. Therefore, we need to feed images as input for the models. The data sources are showing below:
-1.	dog dataset: [Link]
-2.	human dataset: [Link]
+1.	dog dataset: [Link](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+2.	human dataset: [Link](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
+
 There are 13233 colored human images with size 250*250. in the human dataset. While there are 8351 dog images with various image sizes. All the dog images are colored with the heights from 113 to 4003 and the weights from 105 to 4278. To make a better training and prediction, it would be better to transform the dog images with same size before feeding into the model.
 
 The datasets including 3 parts: the training, validation, and testing datasets. All the datasets will be used for training, valid and testing the model to get the best model with low losses.
